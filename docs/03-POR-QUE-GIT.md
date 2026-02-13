@@ -115,7 +115,7 @@ La diferencia: Google Docs es automático (no controlas), Git es manual (CONTROL
 ### Checkpoint 3: Git vs Google Docs ✅
 
 - [x] Leo: "Analogía: Git es como Google Docs"
-- [ ] **Verificación:** ¿Cuál es la DIFERENCIA CLAVE?
+- [x] **Verificación:** ¿Cuál es la DIFERENCIA CLAVE?
   - **Google Docs:** Cambios se sincronizan automáticamente
   - **Git:** TÚ controlas cuándo compartir (push)
 - [x] Si distinguiste las diferencias → ✅ Marca este checkpoint
